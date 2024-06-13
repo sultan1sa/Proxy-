@@ -1,0 +1,12 @@
+shadowsocks = 54.218.48.199:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸 US-54.218.48.199-278
+shadowsocks = 38.75.136.21:5601, method=aes-256-gcm, password=Y6R9pAtvxxzmGC, fast-open=false, udp-relay=false, tag=🇺🇸 US-38.75.136.21-284
+shadowsocks = 38.121.43.71:5000, method=aes-256-gcm, password=Y6R9pAtvxxzmGC, fast-open=false, udp-relay=false, tag=🇺🇸 US-38.121.43.71-287
+shadowsocks = 38.68.134.9:8882, method=aes-256-gcm, password=kDWvXYZoTBcGkC4, fast-open=false, udp-relay=false, tag=🇺🇸 US-38.68.134.9-288
+shadowsocks = 38.75.136.21:3306, method=aes-256-gcm, password=Y6R9pAtvxxzmGC, fast-open=false, udp-relay=false, tag=🇺🇸 US-38.75.136.21-289
+shadowsocks = 167.88.62.62:8080, method=aes-256-gcm, password=KixLvKzwjekG00rm, fast-open=false, udp-relay=false, tag=🇺🇸 US-167.88.62.62-290
+shadowsocks = 38.143.66.87:6697, method=aes-256-gcm, password=TEzjfAYq2IjtuoS, fast-open=false, udp-relay=false, tag=🇺🇸 US-38.143.66.87-292
+shadowsocks = 38.68.134.9:5001, method=aes-256-gcm, password=Y6R9pAtvxxzmGC, fast-open=false, udp-relay=false, tag=🇺🇸 US-38.68.134.9-294
+shadowsocks = 38.114.114.143:443, method=aes-256-gcm, password=pKEW8JPByTVTLtM, fast-open=false, udp-relay=false, tag=🇺🇸 US-38.114.114.143-295
+shadowsocks = 38.68.135.18:9101, method=aes-256-gcm, password=e4FCWrgpkji3QY, fast-open=false, udp-relay=false, tag=🇺🇸 US-38.68.135.18-297
+shadowsocks = 38.68.135.18:5003, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=false, tag=🇺🇸 US-38.68.135.18-298
+shadowsocks = 167.88.62.62:3389, method=aes-256-gcm, password=Y6R9pAtvxxzmGC, fast-open=false, udp-relay=false, tag=🇺🇸 US-167.88.62.62-299
